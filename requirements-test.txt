@@ -1,0 +1,2 @@
+# GenLayer Direct Mode / StudioNet test harness.
+genlayer-test==0.29.2
